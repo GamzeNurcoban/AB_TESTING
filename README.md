@@ -1,5 +1,5 @@
 # AB_TESTING
-![alt text](![image](https://user-images.githubusercontent.com/101832704/167316927-fbfd5665-fc0b-426c-8d87-5a647877a47b.png))
+![alt text](<img width="525" alt="image" src="https://user-images.githubusercontent.com/101832704/167317008-a38e9cf0-fe54-43d4-a154-10871090d9e8.png">)
 
 
 ***İş Problemi***
