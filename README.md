@@ -1,6 +1,4 @@
 # AB_TESTING
-![alt text]("C:\Users\ASUS\Desktop\AB-Testing_detail.jpg")
-
 
 ***İş Problemi***
 
