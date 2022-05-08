@@ -1,5 +1,5 @@
 # AB_TESTING
-![alt text](https://www.invespcro.com/blog/multiple-testing-problem-how-adding-more-variations-to-your-ab-test-will-impact-your-results/)
+![alt text](![image](https://user-images.githubusercontent.com/101832704/167316927-fbfd5665-fc0b-426c-8d87-5a647877a47b.png))
 
 
 ***İş Problemi***
