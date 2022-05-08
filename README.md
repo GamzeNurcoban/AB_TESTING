@@ -1,5 +1,5 @@
 # AB_TESTING
-![alt text](<img width="525" alt="image" src="https://user-images.githubusercontent.com/101832704/167317008-a38e9cf0-fe54-43d4-a154-10871090d9e8.png">)
+![alt text](https://www.altudo.co/resources/blogs/sitecore-ab-and-multivariate-testing)
 
 
 ***İş Problemi***
