@@ -1,5 +1,5 @@
 # AB_TESTING
-![alt text](https://www.altudo.co/resources/blogs/sitecore-ab-and-multivariate-testing)
+![alt text]("C:\Users\ASUS\Desktop\AB-Testing_detail.jpg")
 
 
 ***İş Problemi***
