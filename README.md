@@ -1,6 +1,8 @@
 # AB_TESTING
 
 ***İş Problemi***
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/101832704/168173145-d9db3462-3793-4a31-9749-12b13c6fcde2.png">
+
 
 Facebook kısa süre önce mevcut maximum bidding adı verilen teklif
 verme türüne alternatif olarak yeni bir teklif türü olan average bidding’i
